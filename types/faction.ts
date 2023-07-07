@@ -1,0 +1,1 @@
+export type faction = "COSMIC" | "VOID" | "GALACTIC" | "QUANTUM" | "DOMINION" | "ASTRO" | "CORSAIRS"
