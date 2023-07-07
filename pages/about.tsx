@@ -11,8 +11,8 @@ const About = () => {
     return (
         <div>
             <div> 
-                <h1>About Us</h1>
-                <p>This is the about page.</p>
+                <h1>This is not about you</h1>
+                <p>This is about US.</p>
                 {`your current token is ${newUserToken?.token}`}
             </div>
 
